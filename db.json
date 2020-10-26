@@ -1,0 +1,23 @@
+{
+    "TOKO_A": {
+        "Nama": "OLSHOPBABY",
+        "Owner": "Joko",
+        "Produk": [
+            {
+                "Nama": "Diapers",
+                "Stok": 5,
+                "Harga": "Rp. 9000/pcs"
+            },
+            {
+                "Nama": "Susu",
+                "Stok": 6,
+                "Harga": "Rp. 3000/pcs"
+            },
+            {
+                "Nama": "Baju Bayi",
+                "Stok": 5,
+                "Harga": "Rp. 50.000/pcs"
+            }
+        ]
+    }
+}
